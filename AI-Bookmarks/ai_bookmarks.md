@@ -1,0 +1,194 @@
+---
+tags:
+  - "#ai"
+  - "#bookmarks"
+  - "#text-generation"
+  - "#audio-transcription"
+  - "#data-visualization"
+
+  - "#ai-tools"
+  - "#ai-resources"
+  - "#ai-applications"
+---
+# AI Bookmarks
+
+---
+
+%% Begin Waypoint %%
+- **[AI-Bookmarks](../../..//AI-Resources/AI-Bookmarks/AI-Bookmarks.md)**
+	- [AI-Bookmarks](../../..//AI-Resources/AI-Bookmarks/AI-Bookmarks.md)
+	- [AI-Generative-Art-Tools](AI-Generative-Art-Tools.md)
+	- **AI-Mthrfckr**
+		- [AI-MTHRFCKR](AI-Mthrfckr/AI-MTHRFCKR.md)
+		- **Apps**
+			- [AI-Apps](AI-Mthrfckr/Apps/AI-Apps.md)
+			- [android](android.md)
+			- [ios](ios.md)
+			- [macos](macos.md)
+			- [windows](windows.md)
+		- **ArtImages**
+			- [3d & animation](3d%20&%20animation.md)
+			- [AI-ArtNFTImages](AI-Mthrfckr/ArtImages/AI-ArtNFTImages.md)
+			- **[art](art.md)**
+				- [age transformation](age%20transformation.md)
+				- [anime manipulation](anime%20manipulation.md)
+				- [animegan (video2anime)](animegan%20(video2anime).md)
+				- [art](art.md)
+				- [artt](artt.md)
+				- [avatars](avatars.md)
+				- [biggan](biggan.md)
+				- [blind face restoration (and colorization)](blind%20face%20restoration%20(and%20colorization).md)
+				- [body segmentation](body%20segmentation.md)
+				- [clip](clip.md)
+				- [collab](collab.md)
+				- [colorization](colorization.md)
+				- [controllable talknet (e.g. mimic cartoon voices)](controllable%20talknet%20(e.g.%20mimic%20cartoon%20voices).md)
+				- [cyclegan](cyclegan.md)
+				- [deep dream](deep%20dream.md)
+				- [deep fakes](deep%20fakes.md)
+				- [deepnude](deepnude.md)
+				- [deepsvg](deepsvg.md)
+				- [depth prediction](depth%20prediction.md)
+				- [destroy and recover](destroy%20and%20recover.md)
+				- [face and body generation](face%20and%20body%20generation.md)
+				- [face depixelizer (pulse)](face%20depixelizer%20(pulse).md)
+				- [feature visualization](feature%20visualization.md)
+				- [free](free.md)
+				- [full body puppeteering](full%20body%20puppeteering.md)
+				- [generator](generator.md)
+				- [gpt2 for image generation](gpt2%20for%20image%20generation.md)
+				- [image](image.md)
+				- [jukebox](jukebox.md)
+				- [keras face toolbox](keras%20face%20toolbox.md)
+				- [pose](pose.md)
+				- [pre–trained stylegan models](pre–trained%20stylegan%20models.md)
+				- [rudalle outpainting](rudalle%20outpainting.md)
+				- [rudalle text2image (malevich v3 + emojich)](rudalle%20text2image%20(malevich%20v3%20+%20emojich).md)
+				- [rudolph](rudolph.md)
+				- [single image head avatars](single%20image%20head%20avatars.md)
+				- [single shot denoising](single%20shot%20denoising.md)
+				- [sirenfftimplicit](sirenfftimplicit.md)
+				- [spadegaugan](spadegaugan.md)
+				- [stable diffusion](stable%20diffusion.md)
+				- [stylegan](stylegan.md)
+				- [Super-Resolution](AI-Mthrfckr/ArtImages/Art/Super-Resolution.md)
+				- [taming transformers landscape generation, faces](taming%20transformers%20landscape%20generation,%20faces.md)
+				- [text generation](text%20generation.md)
+			- [github repositories](github%20repositories.md)
+			- [logo generator](logo%20generator.md)
+			- [other](other.md)
+			- [photo editing](photo%20editing.md)
+			- [prompts](AI-Bookmarks/AI-Mthrfckr/ArtImages/prompts.md)
+			- [showcase](showcase.md)
+			- [tools](AI-Bookmarks/AI-Mthrfckr/ArtImages/tools.md)
+		- **[audio](audio.md)**
+			- [AI-Audio](AI-Mthrfckr/Audio/AI-Audio.md)
+			- [audio](audio.md)
+			- [editing](editing.md)
+			- [music](music.md)
+			- [podcasts](podcasts.md)
+			- [speech](speech.md)
+			- [text to speech](text%20to%20speech.md)
+		- **Business**
+			- [AI-Business](AI-Mthrfckr/Business/AI-Business.md)
+			- [customer support](customer%20support.md)
+			- [human resources](human%20resources.md)
+			- [reviews & recommendations](reviews%20&%20recommendations.md)
+			- [search engine](search%20engine.md)
+			- [seo](seo.md)
+			- [startup](startup.md)
+		- **[content](content.md)**
+			- [AI-Content](AI-Mthrfckr/Content/AI-Content.md)
+			- [content](content.md)
+			- [creators toolkit](creators%20toolkit.md)
+			- [social media assistant](social%20media%20assistant.md)
+		- **[data](data.md)**
+			- [AI-Data](AI-Mthrfckr/Data/AI-Data.md)
+			- [data](data.md)
+			- [spreadsheets](spreadsheets.md)
+			- [sql](sql.md)
+		- **Design**
+			- [AI-Design](AI-Mthrfckr/Design/AI-Design.md)
+			- [architecture](architecture.md)
+			- [assistant](AI-Bookmarks/AI-Mthrfckr/Design/assistant.md)
+			- [web design](web%20design.md)
+		- **Development**
+			- [AI-Development](AI-Mthrfckr/Development/AI-Development.md)
+			- [code](AI-Bookmarks/AI-Mthrfckr/Development/code.md)
+			- [database](database.md)
+			- [developer tools](developer%20tools.md)
+			- [github](github.md)
+			- [learn generative ai](learn%20generative%20ai.md)
+			- [no code](no%20code.md)
+		- **EDU**
+			- [AI-EducationLearning](AI-Mthrfckr/EDU/AI-EducationLearning.md)
+			- [education and learning](education%20and%20learning.md)
+			- [research](research.md)
+		- **[health](health.md)**
+			- [AI-Health](AI-Mthrfckr/Health/AI-Health.md)
+			- [health](health.md)
+			- [life assistant](life%20assistant.md)
+			- [memory](memory.md)
+		- **[news](news.md)**
+			- [AI-NewsArticlesBlogsSocial](AI-Mthrfckr/News/AI-NewsArticlesBlogsSocial.md)
+			- [articles](articles.md)
+			- [blogs](blogs.md)
+			- [news](news.md)
+			- [twitter](twitter.md)
+		- **Other**
+			- [AI-Experiments](AI-Mthrfckr/Other/AI-Experiments.md)
+			- [AI-Other](AI-Mthrfckr/Other/AI-Other.md)
+			- [fashion](fashion.md)
+			- [gift ideas](gift%20ideas.md)
+			- [legal](legal.md)
+			- [real estate](real%20estate.md)
+		- **[productivity](AI-Bookmarks/AI-Mthrfckr/Productivity/productivity.md)**
+			- [AI-Productivity](AI-Mthrfckr/Productivity/AI-Productivity.md)
+			- [chat](chat.md)
+			- [docs](docs.md)
+			- [email assistant](email%20assistant.md)
+			- [productivity](AI-Bookmarks/AI-Mthrfckr/Productivity/productivity.md)
+			- [sales & marketing](sales%20&%20marketing.md)
+			- [summarizer](summarizer.md)
+		- **Prompts**
+			- [AI-Prompts](AI-Mthrfckr/Prompts/AI-Prompts.md)
+		- **[resources](resources.md)**
+			- [AI-Resources](AI-Mthrfckr/Resources/AI-Resources.md)
+			- [pharampyschaotic](pharampyschaotic.md)
+			- [reading list](reading%20list.md)
+			- [resources](resources.md)
+		- **Text**
+			- [AI-Text](AI-Mthrfckr/Text/AI-Text.md)
+		- **[tools](AI-Bookmarks/AI-Mthrfckr/Tools/tools.md)**
+			- [AI-Tools](AI-Mthrfckr/Tools/AI-Tools.md)
+			- [automation](automation.md)
+			- [templates](templates.md)
+			- [tools](AI-Bookmarks/AI-Mthrfckr/Tools/tools.md)
+			- [translation & transcript](translation%20&%20transcript.md)
+		- **[video](video.md)**
+			- [AI-Video](AI-Mthrfckr/Video/AI-Video.md)
+			- [video animation](video%20animation.md)
+			- [video channels](video%20channels.md)
+			- [video editing](video%20editing.md)
+			- [video generator](video%20generator.md)
+			- [video interpolation](video%20interpolation.md)
+			- [video personalized](video%20personalized.md)
+			- [video](video.md)
+		- **[writing](AI-Bookmarks/AI-Mthrfckr/Writing/writing.md)**
+			- [AI-Writing](AI-Mthrfckr/Writing/AI-Writing.md)
+			- [assistant](AI-Bookmarks/AI-Mthrfckr/Writing/assistant.md)
+			- [copywriting](copywriting.md)
+			- [general](general.md)
+			- [paraphraser](paraphraser.md)
+			- [story teller](AI-Bookmarks/AI-Mthrfckr/Writing/story%20teller.md)
+			- [summarizing](summarizing.md)
+			- [writing](AI-Bookmarks/AI-Mthrfckr/Writing/writing.md)
+	- [aidb](aidb.md)
+	- [Free-AI-Image-Generator-Sites](Free-AI-Image-Generator-Sites.md)
+	- [Singularity-AI](Singularity-AI.md)
+
+%% End Waypoint %%
+
+---
+
+#ai #bookmarks

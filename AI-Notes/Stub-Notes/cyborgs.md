@@ -1,0 +1,12 @@
+---
+tags:
+  - "#ai"
+  - "#productivity"
+
+  - "#cyborgs"
+  - "#human-augmentation"
+  - "#technology-trends"
+---
+# cyborgs
+
+go improvement https://twitter.com/milesgrimshaw/status/1614757236420784133?s=46&t=SdfxJesdp4F7bJTAJD9DNg
